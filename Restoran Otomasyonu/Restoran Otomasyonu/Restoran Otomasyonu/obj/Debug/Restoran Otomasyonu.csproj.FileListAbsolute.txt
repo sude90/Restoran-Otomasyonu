@@ -1,0 +1,8 @@
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe.config
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.pdb
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.exe
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.pdb

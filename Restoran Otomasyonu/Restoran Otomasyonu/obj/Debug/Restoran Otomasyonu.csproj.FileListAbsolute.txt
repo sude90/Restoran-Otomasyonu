@@ -1,0 +1,24 @@
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe.config
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.pdb
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.exe
+C:\Users\sude\Desktop\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.pdb
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe.config
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.pdb
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.AssemblyReference.cache
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.SuggestedBindingRedirects.cache
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.CoreCompileInputs.cache
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.exe
+E:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.pdb
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe.config
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.exe
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\bin\Debug\Restoran Otomasyonu.pdb
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.AssemblyReference.cache
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.SuggestedBindingRedirects.cache
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.csproj.CoreCompileInputs.cache
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.exe
+F:\NTP UYGULAMALARI\Restoran Otomasyonu\Restoran Otomasyonu\Restoran Otomasyonu\obj\Debug\Restoran Otomasyonu.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restoran Otomasyonu", "Restoran Otomasyonu\Restoran Otomasyonu.csproj", "{30DF8328-4C31-4E3C-B8E7-B4E68B761DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30DF8328-4C31-4E3C-B8E7-B4E68B761DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DF8328-4C31-4E3C-B8E7-B4E68B761DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DF8328-4C31-4E3C-B8E7-B4E68B761DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DF8328-4C31-4E3C-B8E7-B4E68B761DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B83962-6436-4089-93CD-CF066C9F6E33}
+	EndGlobalSection
+EndGlobal
